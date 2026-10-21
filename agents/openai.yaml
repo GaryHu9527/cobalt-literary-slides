@@ -1,0 +1,4 @@
+interface:
+  display_name: "钴蓝人文演讲 PPT"
+  short_description: "复用纸白钴蓝、宋黑字体、真实书封肖像与细线的人文演讲版式"
+  default_prompt: "使用 $cobalt-literary-slides，按我提供的新内容制作可编辑的演讲PPT，沿用已定稿的视觉系统。"

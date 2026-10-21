@@ -1,0 +1,15 @@
+{
+  "name": "钴蓝人文演讲",
+  "version": "1.0",
+  "confirmed_on": "2026-10-22",
+  "canvas_px": {"width": 1280, "height": 720},
+  "palette": {"paper": "#FAFAF7", "cobalt": "#2148B8", "text": "#24333E", "muted": "#546778", "rule": "#B9C4D0"},
+  "fonts": {"heading": "Noto Serif CJK SC", "body": "Source Han Sans SC", "latin": "Baskerville", "heading_fallback": "Source Han Serif SC", "body_fallback": "Noto Sans CJK SC"},
+  "type_px": {"cover": [76,112], "chapter": [60,68], "heading": [43,55], "body": [27,34], "emphasis": [35,48], "caption": [19,22], "reference": [19,21], "folio":19},
+  "type_spacing": {"heading_line_height":1.2, "body_line_height":1.32, "reference_line_height":1.18, "large_tracking_pt":0.6, "body_tracking_pt":0.12, "caption_tracking_pt":0},
+  "layout_px": {"left":95,"right":95,"title_top_typical":[115,220],"chapter_title_top":265,"folio_top":648,"folio_width":100,"folio_height":35},
+  "lines": {"short_rule":{"x":95,"y":85,"width_options":[105,235],"weight_px":1.1},"footer_rule":{"x":95,"y":628,"width":1085,"weight_px":0.65,"color":"#B9C4D0"},"fan":{"origin":[1060,85],"end_x":1195,"first_end_y":100,"step_y":15,"count":7,"weight_px":0.75,"vertical_length":125}},
+  "table_px":{"left":95,"top":230,"width":1090,"height":365,"column_widths":[180,445,465],"header_height":65,"row_height":60,"header_font":28,"body_font":25,"cell_padding":10},
+  "references_px":{"left_column_x":95,"right_column_x":680,"column_width":510,"top":200,"height":440,"divider_x":640},
+  "notes":"尺寸是确认样稿的起点，按内容与实际字体测量调整。标题正文单位为px，字距单位为pt；不固定新稿页数。"
+}

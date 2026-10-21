@@ -1,0 +1,18 @@
+{
+  "confirmed_on": "2026-10-22",
+  "slide_count": 35,
+  "baseline": "比较与参考文献35页版",
+  "comparison_page": 7,
+  "reference_page": 34,
+  "closing_page": 35,
+  "files": {
+    "当经典不再令人惊艳.pptx": {
+      "sha256": "721af71f9eafde3e2eae5adc8edb913121d432bf75d1b2ad51f5617271a27c9f",
+      "bytes": 40803244
+    },
+    "当经典不再令人惊艳.pdf": {
+      "sha256": "75e55b38e892dd6142109945a0e4ab7fa27b5335ad484fc0c8823658955d1409",
+      "bytes": 6132093
+    }
+  }
+}
